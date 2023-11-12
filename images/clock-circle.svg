@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M0,9.491A9.62,9.62,0,0,1,9.722,0a9.62,9.62,0,0,1,9.723,9.491,9.621,9.621,0,0,1-9.723,9.492A9.62,9.62,0,0,1,0,9.491Zm1.945,0a7.7,7.7,0,0,0,7.777,7.594A7.7,7.7,0,0,0,17.5,9.491,7.7,7.7,0,0,0,9.722,1.9,7.7,7.7,0,0,0,1.945,9.491Zm4.86,1.9V4.746H8.75V9.491h4.861v1.9Z" fill="#e73f62"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13481" data-name="Group 13481" transform="translate(-565 -502)">
+    <g id="Group_13480" data-name="Group 13480">
+      <rect id="Rectangle_8012" data-name="Rectangle 8012" width="39" height="39" rx="19.5" transform="translate(565 502)" fill="#fff"/>
+      <g id="Group_7" data-name="Group 7" transform="translate(574.777 512.008)">
+        <path id="Combined_Shape-2" data-name="Combined Shape" d="M0,9.491A9.62,9.62,0,0,1,9.722,0a9.62,9.62,0,0,1,9.723,9.491,9.621,9.621,0,0,1-9.723,9.492A9.62,9.62,0,0,1,0,9.491Zm1.945,0a7.7,7.7,0,0,0,7.777,7.594A7.7,7.7,0,0,0,17.5,9.491,7.7,7.7,0,0,0,9.722,1.9,7.7,7.7,0,0,0,1.945,9.491Zm4.86,1.9V4.746H8.75V9.491h4.861v1.9Z" fill="#e73f62"/>
+      </g>
+    </g>
+  </g>
+</svg>

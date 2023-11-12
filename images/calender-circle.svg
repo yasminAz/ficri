@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
+  <g id="Group_13479" data-name="Group 13479" transform="translate(-406 -502)">
+    <g id="Group_13478" data-name="Group 13478">
+      <rect id="Rectangle_8011" data-name="Rectangle 8011" width="39" height="39" rx="19.5" transform="translate(406 502)" fill="#fff"/>
+      <g id="icon_social_person_outline_24px" data-name="icon/social/person_outline_24px" transform="translate(418.155 513.901)">
+        <path id="icon" d="M1.469,15.2A1.5,1.5,0,0,1,0,13.677V2.28A1.5,1.5,0,0,1,1.469.76H2.938V0H4.407V.76h5.875V0h1.469V.76H13.22a1.5,1.5,0,0,1,1.469,1.52v11.4A1.5,1.5,0,0,1,13.22,15.2Zm0-1.52H13.22v-7.6H1.469ZM13.22,4.559V2.28H11.752v.76H10.282V2.28H4.407v.76H2.938V2.28H1.469V4.559Z" fill="#f94f42"/>
+      </g>
+    </g>
+  </g>
+</svg>
